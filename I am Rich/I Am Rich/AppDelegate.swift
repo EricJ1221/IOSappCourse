@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  I am Rich
+//  I Am Rich
 //
-//  Created by Eric Oliver on 1/28/24.
+//  Created by Eric Oliver on 2/3/24.
 //
 
 import UIKit
